@@ -6,7 +6,7 @@
 **Hand out Chocolates**  :chocolate_bar:
 - [ ]	Student Survey to be sent out by 20th February 2019
 
-| **Action Points** | **We nailed it!**  | **Could be better** | **General Remarks** |
+| **Tasks and Events** | **We nailed it!**  | **Could be better** | **General Remarks** |
 |---------------|----------------|-----------------|-----------------|
 | **Movie Night**   | - 13 participants including Marjo, Andrea, Emilio, cosy!<br> - Nice venue for Spring(not for summer)            |- Need to prepare betterissue with DVD<br>- need to download movie in the laptop from DVD but need to have the original DVD there<br> - Weather and timing did not help :umbrella:<br> - In a 2 day program, movie is not an interactive activity, students would prefer to NOT attend the movie           |                 |
 | **ESN International Evening** |  - At professor, dinner was fine<br> - Organisation in every spot was good. But not huge crowd maybe they left. Andrea saw around 3-4 groups of 20              |  - Couple of occasion it was getting cringy and activity was awkward<br> - Pub quiz was not done well<br> - We were not aware there was an after party             | - They thought it went well but they do not have any specific feedback and asked us for more information             |
@@ -17,7 +17,15 @@
 |    **Opening**           |  ‘’  It was excellent. Best Opening in the history of Opening ‘’ – Sophie, the opener:bomb:               |                 |          - In summer, maybe different crew can tell about various events.        |
 |     **Intercultural Communication Workshop**          |    -It was better than the lecture where there was a lot of stereotypes<br> - Really Interactive <br>-  Bob is great.         |   There were few murmurs about the lecture being stereotypical and also the ‘gay’ comment.              |   -Bob was not in his usual form. Normally, he is good. Is this a subject he likes giving lectures about ?   |
 |     **Peer to peer feedback workshop**          | - Most of the coaches were super engaged<br> - We should keep It in the program. It is useful and valuable<br> - It was good that it was scheduled after campus rally. They were not sleepy<br> - The movie was supercalifragilisticexpialidocious. Oscar is coming up, shall we book tickets?:trophy:             |                 | - One group Kryztof, skipped the lecture. We can ask the coaches about how it went<br> - Did the coaches have question they could not answer? How did they feel being the moderator? :question:     |
-|               |                |                 |                 |
-|               |                |                 |                 |
-|               |                |                 |                 |
-|               |                |                 |                 |
+|   **Coaches/Team Building/Dinner**          |  - Francesc was helpful.           |  - Quite long for team building <br> - Isa: too drunk. Maybe we need to be a bit more firm<br>-  Kryztof: he cannot take decisions by himself. He took wrong decisions <br> - Maaz was new and he had a lot of questions. He was too much overwhelming with the group, maybe he was way too outgoing<br> -  Praveen was opposite of Maaz.  Not very proactive.            |   -    Some students might not have bonded well. It may be their character, or the duration of the programme, or the coach.          |
+|    **Party**           | - Dj was fine But was a bit creepy <br> - audio visual stuff worked               | - too crowded, warm, some agreements with Hangout was not made <br> - They said it can hold 350 people but we had only 250 <br> - There are no cloakrooms/and to store bags <br> - Crew did not finish meal or get second round of dinner. Hangout was late.  Not organized time wise <br> - Dj booth area – everyone was putting their jacket there and the security lady did not do anything. People were hitting the speaker<br> - Dj had to manually turn the volume at  max.  They had a small speaker. Hangout should have done it better <br> - Security at party -  maybe it was a bit too aggressive:police_car:           |   - Given the money saved  it was a good party :money_with_wings:	<br> - we  can co organize parties to not have the hassle of cleaning up.              |
+|      **Communication to Students**        |   - Movies were good . first teaser covered all students, second one did not reach all students. 
+140 views for how to get to delft. *Closing movie blocked by youtube*, we need to choose licensed songs. Videos went pretty well. Filming during IP was cool too. Working with crew than social media coaches much more easy. No students objected to being on the film>br> - Email : good thing to adjust the text. Efficient and worked <br> - Apps: Downloaded by everyone! :space_invader:  Bu they removed it after IP, did not use it for the 'Activities after IP'
+             |           - Website: Faculty information not uniform.      |   - How to not include people in videos who doesn’t want to be in the films? Solutions – contact these people and blur out their faces while the film is on production. Both parties have to be responsible. Students have to say they don’t want an we must be aware.            |
+|     **Communication in the team**         |   - Script: was a very good and the script reading session was really nice :page_with_curl:<br> Roles: everyone was happy :family: <br>  Preparation – we did well ! 
+             |                 |                 |
+             
+### Coming Up 
+- [ ] Meeting with Owee  Last week of March. Tentatively 25th March. Sophie will send out invite. Marjo, Rianne, Sophie has discussed scenarios for summer. 
+
+- [ ] Team Building!! Food and chats and drinks and maybe football  :angel:
