@@ -1,5 +1,9 @@
 ﻿# thoughts-to-words
 > 
+### 3rd March 2019
+- Finished Word Embedding [tutorial](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html) by Pytorch.
+
+--- 
 
 ### 26th February 2019
 - There's not much difference between skip-gram and CBOW performance and really depends on the task. 
