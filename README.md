@@ -1,7 +1,7 @@
 ﻿# thoughts-to-words
 > 
 ### 3rd March 2019
-- Finished Word Embedding [tutorial](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html) by Pytorch.
+- Finished Word Embedding [tutorial](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html) by Pytorch. It is part of the Deep Learning for NLP [tutorial](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html).
 
 --- 
 
