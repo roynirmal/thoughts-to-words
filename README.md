@@ -1,5 +1,9 @@
 ﻿# thoughts-to-words
 > 
+
+
+<a href="http://example.com/" target="_blank">test</a>
+
 ### 3rd March 2019
 - Finished Word Embedding [tutorial](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html) by Pytorch. It is part of the Deep Learning for NLP [tutorial](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html). Skipped the last [slide](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html) for later, seemed a bit too advanced. 
 
