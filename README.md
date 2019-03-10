@@ -1,7 +1,8 @@
 ﻿# thoughts-to-words
 > 
 
-<a href="https://example.org/" rel="nofollow" title="title&quot; target=&quot;_blank">Link</a>
+### 9th March 2019
+- Started implementing [IWE word embeddings](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14724) using PyTorch. They have their source code but it is written in C# :eyes: which is terrible for someone like me. Nonetheless, I hope I can implement it and find it to be performing better for my Query Expansion task! 
 
 ### 3rd March 2019
 - Finished Word Embedding [tutorial](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html) by Pytorch. It is part of the Deep Learning for NLP [tutorial](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html). Skipped the last [slide](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html) for later, seemed a bit too advanced. 
