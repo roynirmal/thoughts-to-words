@@ -1,5 +1,8 @@
 ﻿# thoughts-to-words
 > 
+### 22nd March 2019
+- Finished implementing IWE word embedding model. Here's the [github repo](https://github.com/roynirmal/IWE)! Time to run experiments. Pretty confident about PyTorch now.
+---
 
 ### 9th March 2019
 - Started implementing [IWE word embeddings](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14724) using PyTorch. They have their source code but it is written in C# :eyes: which is terrible for someone like me. Nonetheless, I hope I can implement it and find it to be performing better for my Query Expansion task! 
