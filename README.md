@@ -1,5 +1,9 @@
 ﻿# thoughts-to-words
 > 
+
+### 8th April 2019
+- Cool [cheat sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) for people looking for interviews.
+---
 ### 22nd March 2019
 - Finished implementing IWE word embedding model. Here's the [github repo](https://github.com/roynirmal/IWE)! Time to run experiments. Pretty confident about PyTorch now.
 ---
