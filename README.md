@@ -1,5 +1,9 @@
 ﻿# thoughts-to-words
 > 
+### 10th April 2019
+- A MLP with unlimited data will give similar performance like a CNN. CNN is effective with constrained data. Also better than RNN since it can be parallelized. 
+- Before trying a model or something always have the answer to the question *Why are you trying the new model?* ready. Better with toy examples. 
+
 
 ### 8th April 2019
 - Cool [cheat sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) for people looking for interviews.
