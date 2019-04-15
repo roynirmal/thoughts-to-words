@@ -3,6 +3,8 @@
 ### 15th April 2019
 - Cosine Similarity more robust than Dot Product as similarity measure for word vectors specially when the word embedding model is trained on really less data. For pretrained embeddings or when word embedding model is trained on considerably large data, the two similarity metric would not have much difference in query expansion and consequently retrieval effectiveness. 
 
+---
+
 ### 10th April 2019
 - A MLP with unlimited data will give similar performance like a CNN. CNN is effective with constrained data. Also better than RNN since it can be parallelized. 
 - Before trying a model or something always have the answer to the question *Why are you trying the new model?* ready. Better with toy examples. 
