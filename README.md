@@ -1,5 +1,10 @@
 ﻿# thoughts-to-words
 > 
+
+### 16th November 2019
+- **Ciruclar Linked List** (to see if linked list has a circle): Have two pointers: fast(jumps two steps) and slow(jumps one step). The idea is if there is a circle, first will eventually become equal to slow. 
+
+--- 
 ### 15th April 2019
 - Cosine Similarity more robust than Dot Product as similarity measure for word vectors specially when the word embedding model is trained on really less data. For pretrained embeddings or when word embedding model is trained on considerably large data, the two similarity metric would not have much difference in query expansion and consequently retrieval effectiveness. 
 
