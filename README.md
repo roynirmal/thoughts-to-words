@@ -1,5 +1,9 @@
 ﻿# thoughts-to-words
 > 
+### 18th November 2019
+- **Intersection of Linked List** (to find whether two linked lists intersect): Have two pointers: headA and headB. Increment them until they finish, then make them point to the other's head. Idea is because of their length difference, they *will* end up pointing to merged node (or at the end of the lists) at the next iteration.
+
+--- 
 
 ### 16th November 2019
 - **Ciruclar Linked List** (to see if linked list has a circle): Have two pointers: fast(jumps two steps) and slow(jumps one step). The idea is if there is a circle, first will eventually become equal to slow. 
