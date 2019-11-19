@@ -1,5 +1,11 @@
 ﻿# thoughts-to-words
 > 
+### 19th November 2019
+- **Two Sum** (which two array elements add up to a `val`): Hash Map! Iterate through array. Check if `val` - array element is present in the hash map. If not add array element as key,value pair inside hash map.
+
+--- 
+
+
 ### 18th November 2019
 - **Intersection of Linked List** (to find whether two linked lists intersect): Have two pointers: headA and headB. Increment them until they finish, then make them point to the other's head. Idea is because of their length difference, they *will* end up pointing to merged node (or at the end of the lists) at the next iteration.
 
