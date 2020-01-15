@@ -1,7 +1,8 @@
 # Fastest way to launch development server for SearchX
 
 1. First type in following commands in terminal:
-``` git clone https://github.com/ArthurCamara/searchx-front-scaffolding.git
+``` 
+git clone https://github.com/ArthurCamara/searchx-front-scaffolding.git
 cd searchx-front-scaffolding
 git branch visual-progress-bar
 npm install
