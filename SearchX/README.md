@@ -14,7 +14,7 @@ vim .env
 
 4. ```npm run start```will start the development server at localhost:8080. If it says 'Disqualified User' go to step 5 else if it launches the home page of SearchX go to step 6.
 5. In Local Storage change value of invalid-user key to 0. Then refresh page. This should launch the home page of SearchX.
-6. Navigate to localhost:8080/sync to launch the Study description page. 
+6. Navigate to localhost:8080/sync to launch the Study description page. The backend is already up in the irbackend server. To make sure the backend is up type http://irbackend.ewi.tudelft.nl:443/ in your address bar. If it is okay it will display the message ```{"error":false,"message":"The API is up and running."}```.
 7. Fill in personal details form
 8. Pre Test for topic 1 - Put 1 for all ten questions
 9. Pre Test for Sports - Put 2 for all ten questions
