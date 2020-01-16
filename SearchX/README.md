@@ -4,7 +4,7 @@
 ``` 
 git clone https://github.com/ArthurCamara/searchx-front-scaffolding.git
 cd searchx-front-scaffolding
-git branch visual-progress-bar
+git checkout visual-progress-bar
 npm install
 cp .env.example .env
 vim .env
